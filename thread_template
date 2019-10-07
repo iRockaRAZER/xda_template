@@ -1,0 +1,115 @@
+[CENTER][IMG]https://i.imgur.com/qtDlAth.png[/IMG][/CENTER]
+
+[CENTER][COLOR="DeepSkyBlue"][SIZE="5"][B]team bliss[/B] is pleased to present to you[/SIZE]
+[SIZE="7"][B]bliss rom based on Android 9 Pie[/B][/SIZE][/COLOR][/CENTER]
+
+[CENTER]Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customizations across all platforms you run Bliss on.[/CENTER]
+[CENTER]Bliss ROMs comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.[/CENTER]
+
+[CENTER][SIZE="7"][COLOR=red]Notice[/COLOR][/SIZE][/CENTER]
+
+[CENTER]The OP and most recent discussions will generally help to answer any questions you will encounter.  If not, we will do our best to answer your questions & concerns as soon as possible.[/CENTER]  
+[CENTER]We will also simply direct you to the OP if the answer is contained there.  We encourage community minded interactions: users helping fellow users allows Team Bliss to focus on the work involved to make things Blissful.[/CENTER]
+[CENTER]Please do not ask for ETA's[/CENTER]
+[CENTER]We will not tolerate any rudeness or anyone being disrespectful in this thread. Moderators, feel free to enforce anything you feel is necessary to stop bad posts[/CENTER]
+
+
+[CENTER][URL="https://forum.xda-developers.com/bliss-roms/bliss-roms-discussion/bliss-aio-thread-informations-t3723970"][SIZE="5"][B][I][U][COLOR="DeepSkyBlue"]AIO Thread[/COLOR][/U][/I][/B][/SIZE][/URL][/CENTER]
+
+[CENTER][IMG]https://i.imgur.com/bDCQlHu.png[/IMG][/CENTER]
+
+[CENTER][B][COLOR="DeepSkyBlue"][SIZE="4"][U]Bliss Source[/U][/SIZE][/COLOR][/B][/CENTER]
+[CENTER][URL="https://github.com/BlissRoms"][COLOR="DeepSkyBlue"][B][SIZE="4"]https://github.com/BlissRoms[/SIZE][/B][/COLOR][/URL][/CENTER]
+
+[CENTER][B][COLOR="DeepSkyBlue"][SIZE="4"][U]BlissRoms Devices Source[/U][/SIZE][/COLOR][/B][/CENTER]
+[CENTER][URL="https://github.com/BlissRoms-Devices"][COLOR="DeepSkyBlue"][B][SIZE="4"]https://github.com/BlissRoms-Devices[/SIZE][/B][/COLOR][/URL][/CENTER]
+
+[CENTER][B][COLOR="DeepSkyBlue"][SIZE="4"][U]BlissRoms Kernel Source[/U][/SIZE][/COLOR][/B][/CENTER]
+[CENTER][URL="https://github.com/BlissRoms-Kernels"][COLOR="DeepSkyBlue"][B][SIZE="4"]https://github.com/BlissRoms-Kernels[/SIZE][/B][/COLOR][/URL][/CENTER]
+
+[CENTER][B][COLOR="DeepSkyBlue"][SIZE="4"][U]BlissRoms Vendor Source[/U][/SIZE][/COLOR][/B][/CENTER]
+[CENTER][URL="https://github.com/BlissRoms-Vendor"][COLOR="DeepSkyBlue"][B][SIZE="4"]https://github.com/BlissRoms-Vendor[/SIZE][/B][/COLOR][/URL][/CENTER]
+
+[CENTER][IMG]https://i.imgur.com/KorMlds.png[/IMG][/CENTER]
+ 
+[CENTER][B][SIZE="4"][U]We suggest using OpenGapps, but if your device maintainer mentions otherwise, please go with that suggestion. [/U][/SIZE][/B][/CENTER]
+[CENTER][URL="http://opengapps.org/?api=6.0&variant=nano#"][U][COLOR="DeepSkyBlue"][SIZE="5"]Open Gapps Project[/SIZE][/COLOR][/U][/URL][/CENTER]
+
+[CENTER][IMG]https://i.imgur.com/FJaqYur.png[/IMG][/CENTER]
+
+[CENTER][B][COLOR="DeepSkyBlue"][SIZE="4"][U]Bliss Device Downloads[/U][/SIZE][/COLOR][/B][/CENTER]
+[CENTER][URL="http://downloads.blissroms.com/Bliss/Official/"][COLOR="DeepSkyBlue"][SIZE="4"][B][U]Bliss Builds[/U][/B][/SIZE][/COLOR][/URL][/CENTER]
+
+[CENTER][IMG]https://i.imgur.com/0Pxm6Ep.png[/IMG][/CENTER]
+
+[CENTER][SIZE="5"][COLOR=red]Team Bliss is not responsible in any way for anything that happens to your device in the process of installing[/COLOR][/SIZE][/CENTER]
+[CENTER]Please familiarize yourself with flashing and custom rom use before attempting to flash the rom.  Please make sure you download the correct version of Bliss for your specific device.  The links are labeled clearly.[/CENTER]  
+
+[CENTER]Make sure you are rooted[/CENTER]
+[CENTER]Make sure you have a custom recovery installed(TWRP is the preferred recovery)[/CENTER]
+[CENTER]Download the latest Bliss Rom & the latest GApps package[/CENTER]
+[CENTER]Boot into recovery[/CENTER]
+[CENTER]Backup your current ROM[/CENTER]
+[CENTER]Perform a FULL factory wipe and wipe/system and dalvik cache as a precaution[/CENTER]
+[CENTER]Flash Bliss Rom[/CENTER]
+[CENTER]Flash Google Apps package[/CENTER]
+[CENTER]Flash Root of your choice(Unless OP states otherwise)[/CENTER]
+[CENTER]First boot may take up to 10 minutes. This is due to Gapps and root optimization.[/CENTER]
+
+
+[CENTER][IMG]https://i.imgur.com/CJQkPNY.png[/IMG][/CENTER]
+
+[CENTER][*] Camera is broken <~~~~ example/placeholder[/CENTER]
+
+
+[CENTER]If you have a major bug to report that has not been reported already, please take the following steps to report it to us.  It will save you and our team quite some time.[/CENTER]
+
+[CENTER]Download the [URL="https://play.google.com/store/apps/details?id=com.nolanlawson.logcat&hl=en"][COLOR="DeepSkyBlue"][U]Catlog[/U][/COLOR][/URL] app from the Play Store.[/CENTER]
+[CENTER]There is also a donate version which you can purchase to show appreciation.[/CENTER]
+[CENTER]After downloading the Catlog app, go to the app settings, and change the log level to Debug.[/CENTER]   
+[CENTER]Clear all previous logs and take the exact steps to produce the error you are receiving.[/CENTER]  
+[CENTER]As soon as you receive the error (probably a force close), go straight into Catlog and stop the log recording.[/CENTER]  
+[CENTER]Copy and paste the entire log either to [URL="http://hastebin.com"][COLOR="DeepSkyBlue"][U]Hastebin[/U][/COLOR][/URL] or [URL="http://pastebin.com"][COLOR="DeepSkyBlue"][U]Pastebin[/U][/COLOR][/URL][/CENTER]   
+[CENTER]Save the log, and copy and paste the link into the forum with a brief description of the error.[/CENTER]
+
+
+[CENTER][IMG]https://i.imgur.com/57yteuF.png[/IMG][/CENTER]
+[CENTER][COLOR="DeepSkyBlue"]@Jackeagle[/COLOR] [COLOR="DeepSkyBlue"]@electrikjesus[/COLOR] [COLOR="DeepSkyBlue"]@rwaterspf1[/COLOR] [COLOR="DeepSkyBlue"]@Makaveli_da_dev[/COLOR] [COLOR="DeepSkyBlue"]@ElfinJNoty[/COLOR] [COLOR="DeepSkyBlue"]@BitOBSessiOn[/COLOR] [COLOR="DeepSkyBlue"]@customworx[/COLOR][/CENTER]
+[CENTER][COLOR="DeepSkyBlue"]@nilac[/COLOR] [COLOR="DeepSkyBlue"]@sixohtew[/COLOR] [COLOR="DeepSkyBlue"]@aclegg2011[/COLOR] [COLOR="DeepSkyBlue"]@Roger.T[/COLOR] [COLOR="DeepSkyBlue"]@T.M.Wrath[/COLOR] [COLOR="DeepSkyBlue"]@kanttii[/COLOR] [COLOR="DeepSkyBlue"]@rev3nt3ch[/COLOR] [COLOR="DeepSkyBlue"]@techfreak243[/COLOR] [COLOR="DeepSkyBlue"]@SuperDroidBond[/COLOR] [COLOR="DeepSkyBlue"]@USA_RedDragon[/COLOR] [COLOR="DeepSkyBlue"]@bcrichster[/COLOR][/Center]
+[CENTER][COLOR="DeepSkyBlue"]@deadmanxXD[/COLOR] [COLOR="DeepSkyBlue"]@krittin98[/COLOR] [COLOR="DeepSkyBlue"]@BlackScorpion[/COLOR] [COLOR="DeepSkyBlue"]@techexhibeo[/COLOR] [COLOR="DeepSkyBlue"]@droidbot[/COLOR] [COLOR="DeepSkyBlue"]@siphonay[/COLOR] [COLOR="DeepSkyBlue"]@pacer456[/COLOR] [COLOR="DeepSkyBlue"]@nitin1438[/COLOR] [COLOR="DeepSkyBlue"]@theGeekyLad[/COLOR] [COLOR="DeepSkyBlue"]@kunalshah912[/COLOR] [COLOR="DeepSkyBlue"]@regalstreak[/COLOR] [COLOR="DeepSkyBlue"]@lordarcadius[/COLOR][/CENTER]
+[CENTER]A huge thanks to Chainfire, CM/LineageOS, Android-x86, Jide, [MENTION=4289533]farmerbb[/MENTION] & all the other developers who work hard to keep all the great features coming![/CENTER]
+[CENTER]We really appreciate all your knowledge & hard work![/CENTER]
+
+[CENTER]Team Bliss aims to develop and maintain various OS & software projects for educational and the Android community building purposes.  Team membership consist of and provides:[/CENTER]
+[CENTER]training, development opportunities, design opportunities, build servers, download servers, design & development software,as well as professionals and mentors in all fields revolving around Android development.[/CENTER] 
+[CENTER]If someone wants to donate, please do so via this PayPal link:[/CENTER]
+[CENTER][IMG]https://imgur.com/yMdcL5e.png[/IMG][/CENTER]
+[CENTER][URL="https://www.paypal.me/TeamBliss"][COLOR="DeepSkyBlue"][U]PayPal Link[/U][/COLOR][/URL][/CENTER]
+[CENTER]WE ARE A U.S. FEDERAL NON-PROFIT ORGANIZATION (501c3)[/CENTER]
+[CENTER][IMG]https://imgur.com/2rw5ves.png[/IMG][/CENTER]
+[CENTER]We receive a small donation each time you make a purchase with “Amazon Smile”:[/CENTER]
+[CENTER]https://smile.amazon.com/ch/82-3580195[/CENTER]
+
+[CENTER][COLOR="DeepSkyBlue"][B][U][SIZE="7"]Very Important Information[/SIZE][/U][/B][/COLOR][/CENTER]
+[CENTER]Team Bliss will allow some minor off-topic comments in our development threads.  Please post in the general forums for off-topic comments and/or questions.  Overall, please keep comments relevant to development, as this better helps you and our teamwhen trying to determine problems that users are having.  We appreciate all levels of knowledge in our threads, and therefore we ask that the seasoned members be helpful to those with less knowledge.  Most importantly, do NOT troll those with less knowledge than yourself.[/CENTER]
+[CENTER]Should you feel inclined to not abide by our request, the XDA Moderators may be called in to remove posts.  We thank you for adhering to our thread rules.[/CENTER]
+
+[CENTER][URL="https://www.paypal.me/TeamBliss"][IMG]https://imgur.com/CKUpp3o[/IMG][/URL][/CENTER]
+
+[CENTER][IMG]https://imgur.com/CKUpp3o.png[/IMG][/CENTER]
+[CENTER][COLOR="DeepSkyBlue"][B][U][SIZE="5"]Website[/SIZE][/U][/B][/COLOR][/CENTER]
+[CENTER][URL]https://blissroms.com[/URL][/CENTER]
+
+[CENTER][COLOR="DeepSkyBlue"][B][U][SIZE="5"]Telegram Communities[/SIZE][/U][/B][/COLOR][/CENTER]
+[CENTER][URL]https://t.me/Team_Bliss_Community[/URL][/CENTER]
+[CENTER][URL]https://t.me/blissx86[/CENTER][/URL]
+[CENTER][URL]https://t.me/Team_Bliss_Build_Support[/URL][/CENTER]
+[CENTER][URL]https://t.me/Project_Xtremis[/URL][/CENTER]
+
+[CENTER][COLOR="DeepSkyBlue"][B][U][SIZE="5"]Official Platform Links[/SIZE][/U][/B][/COLOR][/CENTER]
+[CENTER][URL]https://www.facebook.comBlissFamilyOfROMs[/URL][/CENTER]
+[CENTER][URL]https://plus.google.com/communities/118265887490106132524[/URL][/CENTER]
+[CENTER][URL]https://twitter.com/Bliss_ROMs[/URL][/CENTER]
+[CENTER][URL]https://www.instagram.com/blissroms[/URL][/CENTER]
+
+[CENTER][SIZE="4"][B][COLOR="DeepSkyBlue"]Thank you for using Bliss!  And as always: #StayBlissful[/COLOR][/B][/SIZE][/CENTER]
