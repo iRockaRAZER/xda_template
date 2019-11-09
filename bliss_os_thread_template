@@ -1,5 +1,5 @@
 [center][font=Arial][img=1063x437]https://i.imgur.com/rLv8OL2.png[/img][/font][/center]
-[center][font=Arial][b][color=deepskyblue][size=5]Team Bliss[/size][/color][/b][color=deepskyblue][size=5]is pleased to present to you[/size][/color][/font][/center]
+[center][font=Arial][b][color=deepskyblue][size=5]Team Bliss [/size][/color][/b][color=deepskyblue][size=5]is pleased to present to you[/size][/color][/font][/center]
 [center][font=Arial][b][size=7]Bliss-OS for PCs based on Android 10[/size][/b][/font][/center]
 [center][font=Arial][b][color=#44b8ff][size=4]An Open Source OS, based on Android, that incorporates many customizations options and added security features. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years[/size][/color][/b][/font][/center]
 [font=Arial]
@@ -10,8 +10,8 @@
 
 [b][size=4][color=#454545][b][color=DeepSkyBlue]First, a little bit about this project...[/color][/b][/color][/size][/b]
 [color=#454545][size=2]Starting in Android Pie, Bliss OS took a different approach to building Android for PC's. Taking inspiration from @[/size][/color][url=https://forum.xda-developers.com/member.php?u=1915408][color=#de7300][size=2]phhusson[/size][/color][/url][color=#454545][size=2] 's Treble methods, and Intel's Project Celadon, and Android-x86 Project, we have now adapted that method to be a bit more streamlined, and packaged it up so that it can work a bit more dynamically. The manifest can be found at: https://github.com/BlissRoms-x86/manifest[/size][/color]
-[color=#454545][size=2]These Bliss OS releases will be considered the Bleeding Edge of development for Android on x86, and we will be marking most of our additions to be sent down the ladder to our Android-PC project & hopefully Android-x86 Project as well. For now though, you can stay tuned to this thread for updates on all that.[/size][/color]
-
+[color=#454545][size=2]These Bliss OS releases will be considered the Bleeding Edge of development for Android on x86, and we will be marking most of our additions to be sent down the ladder to our Android-PC project & hopefully Android-x86 Project as well. [/size][/color][/font]
+[font=Arial]
 [size=4][color=#454545][b][color=DeepSkyBlue]ROM Porting Details:[/color][/b][/color][/size]
 [color=#454545][size=2]As with Pie, things this round will be done a bit differently using a new adaptation of our patching system to build for x86 [/size][/color][color=#454545][size=2][color=#009900][u]devices[/u][/color][/size][/color][color=#454545][size=2], making updating and maintaining far easier than before, and even lowers the bar for understanding how it all works. But things were still complicated enough for us to see room for improvement. So we have also packaged up all the x86 bits we add to Bliss OS, minus a few goodies [/size][/color][img]https://forum.xda-cdn.com/images/smilies/wink.gif[/img][color=#454545][size=2] and are making them available to the entire community to add to their ROM projects. You can find the basics on GitHub already, [/size][/color][url=https://github.com/Android-PC][color=#de7300][size=2]https://github.com/Android-PC[/size][/color][/url][color=#454545][size=2] and for those interested in adding x86 support to your own ROM, I was able to squash things down to a single commit in build/make in order to help get the ball rolling. This will also be the source we are helping out Android-x86 Project with, so don't be surprised if things change a bit to reflect that projects branding more.[/size][/color]
 [color=#454545][size=2]I'm always open to suggestions on how we can [/size][/color][color=#454545][size=2][color=#009900][u]improve[/u][/color][/size][/color][color=#454545][size=2] upon things too, so don't be afraid to speak up, just remember to be considerate upon doing so [/size][/color][img]https://forum.xda-cdn.com/images/smilies/wink.gif[/img]
@@ -24,27 +24,25 @@
 [color=#000000][img]https://i.imgur.com/A7JONTD.png[/img][/color]
 
 
-[b][color=DeepSkyBlue][size=4][u][b][color=#454545][size=2][color=DeepSkyBlue][size=4][u]Bliss Source[/u][/size][/color][/size][/color][/b][/u][/size][/color][/b]
+[/font][size=4]Bliss Source
 
-[color=#de7300][size=2][color=DeepSkyBlue][b][size=4][url=https://github.com/BlissRoms]https://github.com/BlissRoms[/url][/size][/b][/color][/size][/color]
+[url=https://github.com/BlissRoms]https://github.com/BlissRoms[/url]
 
+BlissRoms Devices Source
 
-[b][color=#454545][size=2][color=DeepSkyBlue][size=4][u]BlissRoms Devices Source[/u][/size][/color][/size][/color][/b]
+[url=https://github.com/BlissRoms-Devices]https://github.com/BlissRoms-Devices[/url]
 
-[color=#de7300][size=2][color=DeepSkyBlue][b][size=4][url=https://github.com/BlissRoms-Devices]https://github.com/BlissRoms-Devices[/url][/size][/b][/color][/size][/color]
+Bliss' Android-PC Project
 
+[url=https://github.com/Android-PC]https://github.com/Android-PC[/url]
 
-[b][color=#454545][size=2][color=DeepSkyBlue][size=4][u]Bliss' Android-PC Project[/u][/size][/color][/size][/color][/b]
+Bliss OS Source
 
-[b][color=#111111][size=2][color=DeepSkyBlue][size=4][u][color=#de7300][size=2][color=DeepSkyBlue][b][size=4][url=https://github.com/Android-PC]https://github.com/Android-PC[/url][/size][/b][/color][/size][/color][/u][/size][/color][/size][/color][/b]
+[url=https://github.com/BlissRoms-x86]https://github.com/BlissRoms-x86[/url]
 
-[b][color=DeepSkyBlue][size=4][u]Bliss OS Source[/u][/size][/color][/b]
+Bliss OS Kernel Source
 
-[b][size=4][url=https://github.com/BlissRoms-x86]https://github.com/BlissRoms-x86[/url][/size][/b]
-
-[b][color=#111111][size=2][color=DeepSkyBlue][size=4][u]Bliss OS Kernel Source[/u][/size][/color][/size][/color][/b]
-
-[b][u][size=4][url=https://github.com/BlissRoms-x86/kernel_common]https://github.com/BlissRoms-x86/kernel_common[/url][/size][/u][/b]
+[url=https://github.com/BlissRoms-x86/kernel_common]https://github.com/BlissRoms-x86/kernel_common[/url][/size][font=Arial]
 
 
 
@@ -145,10 +143,11 @@ Bliss OS downloads can be a bit confusing to most users initially. We have tried
 [b]We really appreciate all your knowledge & hard work![/b]
 
 
-
-[b][color=#000000]Team Bliss aims to develop and maintain various OS & software projects for educational and the Android community building purposes.  Team membership consist of and provides:[/color][/b]
-[b]training, development opportunities, design opportunities, build servers, download servers, design & development software,as well as professionals and mentors in all fields revolving around Android development.[/b]
-
+[color=#44b8ff][size=5][b]
+About Bliss Family of ROMs[/b][/size][/color][/font]
+[font=Arial]
+[b][color=#000000]Bliss Family of ROMs aims to develop and maintain various OS & software projects for educational and the Android community building purposes.  Team membership consist of and provides:[/color][/b]
+[b]training, development opportunities, design opportunities, build servers when available, download servers, design & development software, as well as a stress free team oriented community of professionals and mentors in all fields revolving around Android development. To join our team, please visit either of our websites, and find the Join Team Bliss link. [/b]
 
 [b][color=#000000]If someone wants to donate, please do so via this PayPal link:[/color][/b]
 [b][img]https://imgur.com/yMdcL5e.png[/img][/b]
