@@ -1,64 +1,77 @@
-[CENTER][IMG]https://i.imgur.com/qtDlAth.png[/IMG]
-[font=Arial][b][color=deepskyblue][size=5]Team Bliss [/size][/color][/b][color=deepskyblue][size=5]is pleased to present to you[/size][/font]
-[font=Arial][b][size=7]BlissRoms based on Android 10[/size][/b][/font][/color]
+[center][IMG]https://i.imgur.com/qtDlAth.png[/IMG][/center]
 
-[B]Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customizations across all platforms you run Bliss on.[/B]
-[B]Bliss ROMs comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.[/B]
+[center][font=Arial][b][color=deepskyblue][size=5]Team Bliss [/size][/color][/b][color=deepskyblue][size=5]is pleased to present to you[/size][/font]
+[font=Arial][b][size=7]BlissRoms based on Android 11[/size][/b][/font][/color][/center]
 
-[IMG]https://i.imgur.com/A7JONTD.png[/IMG]
-[CODE]
-[CENTER][B][COLOR=DeepSkyBlue][SIZE=4][U][URL="https://github.com/BlissRoms"]BlissRoms Sources[/URL][/U][/SIZE][/COLOR][/B]
+[center][SIZE="3"][B]Bliss ROMs comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.[/B]
+[B]Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customizations across all platforms you run Bliss on.[/B][/SIZE][/center]
 
-[B][COLOR=DeepSkyBlue][SIZE=4][U][URL="https://github.com/BlissRoms-Devices"]BlissRoms Device Sources[/URL][/U][/SIZE][/COLOR][/B][/CENTER]
-[/CODE]
+[CENTER][IMG]https://i.imgur.com/M8leihh.png[/IMG][/CENTER]
+ 
+[B][SIZE="3"][CENTER][URL="https://sourceforge.net/projects/blissroms/files/Q/enchilada/"]BlissROM Download[/URL][/CENTER]
+[CENTER][URL="#"]Latest TWRP recovery Download[/URL][/CENTER][/SIZE][/B]
 
-[IMG]https://i.imgur.com/M8leihh.png[/IMG]
+[CENTER][IMG]https://i.imgur.com/Cz6L1rZ.png[/IMG][/CENTER]
 
-[SIZE="5"][COLOR=DeepSkyBlue][B]Bliss Device Downloads
-[URL="https://downloads.blissroms.com/BlissRoms/Q/"]Bliss Download Server[/URL]
-[URL="https://sourceforge.net/projects/blissroms/files/Q//"]SourceForge[/URL]
-[/SIZE][/COLOR][/B]
+[CENTER][COLOR="red"][B][SIZE="4"]Installing from Android 10 Rom's.[/SIZE][/B][/COLOR][/CENTER]
 
-[SIZE="4"][COLOR="DeepSkyBlue"][IMG]https://i.imgur.com/YlIC2kZ.png[/IMG]
-[B][URL="https://sourceforge.net/projects/opengapps/files/arm64/"]OpenGapps Project[/URL][/B]
-[/COLOR][/SIZE]
-[IMG]https://i.imgur.com/Cz6L1rZ.png[/IMG]
+[CENTER][CODE]
+- Install latest TWRP
+- Flash BlissROM
+- Flash TWRP
+- WIPE DATA
+- Reboot to TWRP
+- Reboot to System and #StayBlissful
 
-[SIZE=5][COLOR=red]Team Bliss is not responsible in any way for anything that happens to your device in the process of installing[/COLOR][/SIZE]
-[CODE][B]Please familiarize yourself with flashing and custom rom use before attempting to flash the rom.  Please make sure you download the correct version of Bliss for your specific device.  The links are labeled clearly.[/B]
-[LIST]
-[*][B]Make sure you are rooted[/B]
-[*][B]Make sure you have a custom recovery installed(TWRP is the preferred recovery)[/B]
-[*][B]Download the latest Bliss Rom & the latest GApps package[/B]
-[*][B]Boot into recovery[/B]
-[*][B]Backup your current ROM[/B]
-[*][B]Perform a FULL factory wipe and wipe/system and dalvik cache as a precaution[/B]
-[*][B]Flash Bliss Rom[/B]
-[*][B]Reboot recovery[/B]
-[*][B] Flash OpenGapps--NANO PACKAGE!![/B]
-[*][B] *Flash magisk* optional[/B]
-[*][B]First boot may take up to 10 minutes. This is due to Gapps and root optimization.[/B]
-[/LIST][/CENTER][/CODE]
+[/CODE][/CENTER]
 
 [CENTER][IMG]https://i.imgur.com/aWICthQ.png[/IMG]
 
 [CODE]
 [B]If you have a major bug to report that has not been reported already, please take the following steps to report it to us.  It will save you and our team quite some time.[/B]
-[LIST]
-[*][B]Download the [URL="https://play.google.com/store/apps/details?id=com.nolanlawson.logcat&hl=en"][COLOR=DeepSkyBlue][U]Catlog[/U][/COLOR][/URL] app from the Play Store.[/B]
-[*][B]There is also a donate version which you can purchase to show appreciation.[/B]
-[*][B]After downloading the Catlog app, go to the app settings, and change the log level to Debug.[/B]
-[*][B]Clear all previous logs and take the exact steps to produce the error you are receiving.[/B]
-[*][B]As soon as you receive the error (probably a force close), go straight into Catlog and stop the log recording.[/B]
-[*][B]Copy and paste the entire log either to [URL="http://hastebin.com"][COLOR=DeepSkyBlue][U]Hastebin[/U][/COLOR][/URL] or [URL="http://pastebin.com"][COLOR=DeepSkyBlue][U]Pastebin[/U][/COLOR][/URL][/B]
-[*][B]Save the log, and copy and paste the link into the forum with a brief description of the error.[/B]
-[/LIST][/CODE]
 
-[IMG]https://i.imgur.com/myCEQmI.png[/IMG]
+-[B]Download the [URL="https://play.google.com/store/apps/details?id=com.nolanlawson.logcat&hl=en"][COLOR=DeepSkyBlue][U]Catlog[/U][/COLOR][/URL] app from the Play Store.[/B]
+
+-[B]There is also a donate version which you can purchase to show appreciation.[/B]
+
+-[B]After downloading the Catlog app, go to the app settings, and change the log level to Debug.[/B]
+
+-[B]Clear all previous logs and take the exact steps to produce the error you are receiving.[/B]
+
+-[B]As soon as you receive the error (probably a force close), go straight into Catlog and stop the log recording.[/B]
+
+-[B]Copy and paste the entire log either to [URL="http://hastebin.com"][COLOR=DeepSkyBlue][U]Hastebin[/U][/COLOR][/URL] or [URL="http://pastebin.com"][COLOR=DeepSkyBlue][U]Pastebin[/U][/COLOR][/URL][/B]
+
+-[B]Save the log, and copy and paste the link into the forum with a brief description of the error.[/B]
+[/CODE][/CENTER]
+
+[CENTER][IMG]https://i.imgur.com/A7JONTD.png[/IMG][/CENTER]
+ 
+[CENTER][B][SIZE="3"][URL="https://github.com/BlissRoms/"]BlissRoms Github[/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://review.blissroms.com/q/status:open+-is:wip"]BlissRoms Gerrit[/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://github.com/BlissRoms-Devices/"]BlissRoms Device Sources[/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://github.com/BlissRoms-Devices/"]BlissRoms Kernel Source[/URL][/SIZE][/B][/CENTER]
+
+[CENTER][IMG]https://i.imgur.com/wwdX3pH.png[/IMG][/CENTER]
+ 
+[CENTER][B][SIZE="3"][URL="https://blissroms.com"]BlissRoms Website [/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://blog.blissroms.com/"]Bliss Blog [/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://www.facebook.com/BlissFamilyOfROMs"]BlissRoms Facebook[/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://twitter.com/Bliss_ROMs"]BlissRoms Twitter[/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://www.instagram.com/blissroms"]BlissRoms Instagram[/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://t.me/Team_Bliss_Community"]BlissRoms Telegram Group[/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://t.me/BlissROM_Updates"]BlissRoms Announcements Telegram Channel[/URL][/SIZE][/B][/CENTER]
+[CENTER][B][SIZE="3"][URL="https://wiki.blissroms.com/index.php?title=BlissWiki"]Bliss Wiki[/URL][/SIZE][/B][/CENTER]
+
+[CENTER][B][SIZE="3"]If someone wants to donate, please do so via this PayPal link
+[URL="https://www.paypal.me/TeamBliss"][img]https://imgur.com/2rw5ves.png[/img][/URL][/center][/SIZE][/B]
+
+
+[CENTER][IMG]https://i.imgur.com/myCEQmI.png[/IMG]
 [CODE][COLOR=DeepSkyBlue][B]
 @Jackeagle 
-@electrikjesus
-@Rohan purohit
+@electrikjesus 
+@Rohanpurohit
 @rwaterspf1 
 @Makaveli_da_dev 
 @ElfinJNoty 
@@ -89,46 +102,7 @@
 @AryanAA
 [/B]
 [/COLOR][/CODE]
-[B]A huge thanks to Chainfire, CM/LineageOS, Android-x86, Jide, @[URL="https://forum.xda-developers.com/member.php?u=4289533"]farmerbb[/URL] & all the other developers who work hard to keep all the great features coming![/B]
-[B]We really appreciate all your knowledge & hard work![/B][/CENTER]
+[SIZE="3"][B]A huge thanks to Chainfire, CM/LineageOS, Android-x86, Jide, topjohnwu (Magisk) @[URL="https://forum.xda-developers.com/member.php?u=4289533"]farmerbb[/URL] & all the other developers who work hard to keep all the great features coming![/B]
+[B]We really appreciate all your knowledge & hard work![/B][/SIZE][/CENTER]
 
-[color=#44b8ff][size=5][b]About BlissROMs[/b][/size][/color]
-
-[b]Team membership consist of and provides:[/b]
-Training, development opportunities, design opportunities, build servers when available, download servers, design & development software, as well as a stress free team oriented community of professionals and mentors in all fields revolving around Android development. To join our team, please visit either of our websites, and find the Join Team Bliss link. [font=Arial]
-
-[b][color=#000000]If someone wants to donate, please do so via this PayPal link:[/color][/b]
-[b][img]https://imgur.com/yMdcL5e.png[/img][/b]
-
-[b][url=https://www.paypal.me/TeamBliss][color=DeepSkyBlue][u]PayPal Link[/u][/color][/url][/b]
-
-[b]WE ARE A U.S. FEDERAL NON-PROFIT ORGANIZATION (501c3)[/b]
-
-[b][img]https://imgur.com/2rw5ves.png[/img][/b]
-
-[b]We receive a small donation each time you make a purchase with “Amazon Smile”:[/b]
-
-[url=https://smile.amazon.com/ch/82-3580195][/url][b][color=#000000][url=https://smile.amazon.com/ch/82-3580195]https://smile.amazon.com/ch/82-3580195[/url][/color][/b]
-
-[B][CENTER]
-[SIZE="6"][COLOR="Red"]Notice[/COLOR][/SIZE]
-
-The OP and most recent discussions will generally help to answer any questions you will encounter. If not, we will do our best to answer your questions & concerns as soon as possible.
-We will also simply direct you to the OP if the answer is contained there. We encourage community minded interactions: users helping fellow users allows Team Bliss to focus on the work involved to make things Blissful.
-Please do not ask for ETA's
-We will not tolerate any rudeness or anyone being disrespectful in this thread. Moderators, feel free to enforce anything you feel is necessary to stop bad posts
-
-Team Bliss will allow some minor off-topic comments in our development threads. Please post in the general forums for off-topic comments and/or questions. Overall, please keep comments relevant to development, as this better helps you and our teamwhen trying to determine problems that users are having. We appreciate all levels of knowledge in our threads, and therefore we ask that the seasoned members be helpful to those with less knowledge. Most importantly, do NOT troll those with less knowledge than yourself.
-Should you feel inclined to not abide by our request, the XDA Moderators may be called in to remove posts. We thank you for adhering to our thread rules.[/CENTER][/B]
-
-[CENTER][IMG]https://i.imgur.com/wwdX3pH.png[/IMG]
-
-[CENTER][CODE][COLOR=DeepSkyBlue][B][U][SIZE=5][URL="https://blissroms.com"]Website[/URL][/SIZE][/U][/B][/COLOR]
-
-[COLOR=DeepSkyBlue][B][U][SIZE=5]Official Platform Links[/SIZE][/U][/B][/COLOR]
-[URL="https://www.facebook.com/BlissFamilyOfROMs"]BlissRoms Facebook[/URL]
-[URL="https://twitter.com/Bliss_ROMs"]BlissRoms Twitter[/URL]
-[URL="https://www.instagram.com/blissroms"]BlissRoms Instagram[/URL]
-[URL="https://t.me/Team_Bliss_Community"]BlissRoms Telegram[/URL][/CODE][/CENTER]
-
-[SIZE=4][B][COLOR=DeepSkyBlue]Thank you for using Bliss!  And as always: #StayBlissful[/COLOR][/B][/SIZE][/CENTER]
+[CENTER][SIZE=4][B][COLOR=DeepSkyBlue]Thank you for using Bliss!  And as always: #StayBlissful[/COLOR][/B][/SIZE][/CENTER]
